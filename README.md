@@ -1,0 +1,1 @@
+This is a codebase for the official Django Channels tutorial in https://channels.readthedocs.io/en/latest/tutorial/
